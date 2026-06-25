@@ -1,3 +1,4 @@
+**WARNING!!! JAMMING IS ILLEGAL------WARNING!!! JAMMING IS ILLEGAL**
 This project generates a constant carrier signal using the nRF24L01 RF module, with
 automatic channel hopping across the entire 2.4GHz spectrum (channels 0-125).
 It's designed for:
@@ -8,9 +9,9 @@ It's designed for:
 - Wireless signal generation
 
 ⚠️ **DISCLAIMER**
-This code is provided for educational and research purposes. Users are responsible
+**_This code is provided for educational and research purposes. Users are responsible
 for complying with local laws, regulations, and radio-frequency requirements when
-using wireless communication equipment.
+using wireless communication equipment._**
 
 **🎯 Features**
 - ✅ Constant carrier generation with nRF24L01+
@@ -38,4 +39,10 @@ using wireless communication equipment.
 | 3.3V     | VCC       | Power Supply    |
 | GND      | GND       | Ground          |
 
+<img width="1200" height="800" alt="NRF24L01-Pinout-NRF24L01-PA-LNA-" src="https://github.com/user-attachments/assets/11c24988-308b-4f10-bd75-d2ef8c422aff" />
 
+<img width="2410" height="1393" alt="P2" src="https://github.com/user-attachments/assets/c5325861-ffa5-48e2-a373-23136b08174a" />
+
+**If you like you can donate to GCASH Account**
+
+<img width="1268" height="2398" alt="Project (20260625125854)" src="https://github.com/user-attachments/assets/4233ad9e-2618-4685-a20f-44dc8b602a34" />
