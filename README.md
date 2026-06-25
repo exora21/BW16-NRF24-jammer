@@ -1,6 +1,7 @@
 **WARNING!!! JAMMING IS ILLEGAL------WARNING!!! JAMMING IS ILLEGAL**
 
 _**EXORA_LAB**_
+**Tiktok:** tiktok.com/@exoraofficial2
 
 Here's my BW16 + NRF24 code, now open source. I spent months developing and testing it beacause there were
 barely any useful resources online for this combination. fell free to use it, modify it, learn from it and improve it.
@@ -51,6 +52,19 @@ using wireless communication equipment._**
 
 <img width="2410" height="1393" alt="P2" src="https://github.com/user-attachments/assets/c5325861-ffa5-48e2-a373-23136b08174a" />
 
-**If you like you can donate to GCASH Account**
+Open the .ino file in Arduino IDE
+Select board: "Realtek Ameba RTL8720DN" (BW16)
+Configure SPI pins in code (default setup included)
+Upload to your BW16 board
+
+
+
+**If you like,you can donate to GCASH Account**
 
 <img width="1268" height="2398" alt="Project (20260625125854)" src="https://github.com/user-attachments/assets/4233ad9e-2618-4685-a20f-44dc8b602a34" />
+
+⚠️ **DISCLAIMER**
+
+This tool is for **educational purposes only**. By using it, you accept **full responsibility** for complying with all local laws regarding RF transmissions. **Do not use** for jamming or interfering with any communications. The author assumes **no liability** for any legal consequences, damages, or misuse. Unauthorized RF transmission is **illegal** in most countries and may result in fines or prosecution. Use **responsibly and legally**.
+
+**You are solely responsible for your actions.**
