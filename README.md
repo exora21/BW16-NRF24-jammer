@@ -38,8 +38,4 @@ using wireless communication equipment.
 | 3.3V     | VCC       | Power Supply    |
 | GND      | GND       | Ground          |
 
-## 🚀 Installation
 
-1. Clone this repository:
-```bash
-git clone https://github.com/yourusername/nRF24L01-Constant-Carrier-Hopper.git
